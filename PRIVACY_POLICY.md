@@ -41,10 +41,13 @@ You can delete your data at any time:
 
 ## Third-Party Services
 
-The App contains one external link:
-- **Buy Me a Coffee** (https://www.buymeacoffee.com/mattapril) - Opens in Safari when you tap the support button in Settings. This link is subject to Buy Me a Coffee's privacy policy.
+The App contains external links that open in Safari:
+- **Buy Me a Coffee** (https://www.buymeacoffee.com/mattapril) - Support link in Settings
+- **Documentation & Legal Pages** (https://mattkwiecien.github.io/pilled-docs/) - Links to this privacy policy, medical disclaimer, and documentation hosted on GitHub Pages
 
-No other third-party services, analytics, or tracking tools are used.
+These links open in your device's Safari browser and are subject to their respective privacy policies (Buy Me a Coffee's privacy policy and GitHub's privacy policy). No data is transmitted from the app to these services.
+
+No third-party services, analytics, or tracking tools are integrated into the app.
 
 ## Children's Privacy
 
