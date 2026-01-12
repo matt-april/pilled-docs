@@ -1,6 +1,6 @@
 # Privacy Policy for Pilled
 
-**Last Updated:** November 9, 2025
+**Last Updated:** January 11, 2026
 
 ## Overview
 
@@ -31,6 +31,17 @@ All medication information and dose logs you create in the App are stored **loca
 
 If you have iCloud Backup enabled on your device, your medication data may be included in your encrypted iCloud backup, managed entirely by Apple. We have no access to your iCloud data.
 
+## System Features
+
+The App uses Apple's notification system to notify you when recurring medications are automatically logged (Premium feature only). These notifications:
+
+- Are generated locally on your device
+- Do not send any data to external servers
+- Require your permission to be enabled
+- Can be disabled in iOS Settings at any time
+
+No data is collected or transmitted through the notification system.
+
 ## Data Deletion
 
 You can delete your data at any time:
@@ -43,7 +54,7 @@ You can delete your data at any time:
 
 The App contains external links that open in Safari:
 - **Buy Me a Coffee** (https://www.buymeacoffee.com/mattapril) - Support link in Settings
-- **Documentation & Legal Pages** (https://mattkwiecien.github.io/pilled-docs/) - Links to this privacy policy, medical disclaimer, and documentation hosted on GitHub Pages
+- **Documentation & Legal Pages** (https://matt-april.github.io/pilled-docs/) - Links to this privacy policy, medical disclaimer, and documentation hosted on GitHub Pages
 
 These links open in your device's Safari browser and are subject to their respective privacy policies (Buy Me a Coffee's privacy policy and GitHub's privacy policy). No data is transmitted from the app to these services.
 

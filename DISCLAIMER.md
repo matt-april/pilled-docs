@@ -8,10 +8,11 @@
 - Helps you log when you take medications
 - Tracks your medication history
 - Provides visual data about your adherence
+- Sends notifications when recurring medications are automatically logged (Premium feature only)
 
 ### What Pilled Does NOT Do:
 - Provide medical advice
-- Remind you to take medications (no notifications)
+- Send medication reminders (the app only notifies you AFTER automatically logging a recurring medication, not before)
 - Replace your doctor's instructions
 - Verify medication safety or interactions
 - Guarantee accuracy of your logged data
@@ -66,4 +67,4 @@ This disclaimer may be updated at any time. Continued use of the app constitutes
 
 **By using Pilled, you acknowledge that you have read, understood, and agree to this medical disclaimer.**
 
-**Last Updated:** November 9, 2025
+**Last Updated:** January 11, 2026

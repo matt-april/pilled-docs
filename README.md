@@ -2,7 +2,7 @@
 
 Official website and documentation for Pilled, a privacy-focused iOS medication tracker.
 
-🌐 **Live Site:** https://mattkwiecien.github.io/pilled-docs/
+🌐 **Live Site:** https://matt-april.github.io/pilled-docs/
 
 ---
 
@@ -48,7 +48,7 @@ This site is deployed via **GitHub Pages** from this public repository.
 
 ### Current Setup
 - **Source:** `main` branch, root directory
-- **URL:** https://mattkwiecien.github.io/pilled-docs/
+- **URL:** https://matt-april.github.io/pilled-docs/
 
 ### To Deploy Updates
 ```bash
@@ -146,8 +146,8 @@ The "Notify Me" form currently simulates submission. To make it functional, upda
 
 Use these URLs in your App Store Connect submission:
 
-- **Privacy Policy:** `https://mattkwiecien.github.io/pilled-docs/privacy.html`
-- **Medical Disclaimer:** `https://mattkwiecien.github.io/pilled-docs/disclaimer.html`
+- **Privacy Policy:** `https://matt-april.github.io/pilled-docs/privacy.html`
+- **Medical Disclaimer:** `https://matt-april.github.io/pilled-docs/disclaimer.html`
 
 ---
 
@@ -155,7 +155,7 @@ Use these URLs in your App Store Connect submission:
 
 - **Email:** matthew.april@pm.me
 - **Support:** [Buy Me a Coffee](https://www.buymeacoffee.com/mattapril)
-- **GitHub:** [mattkwiecien/pilled](https://github.com/mattkwiecien/pilled) (private)
+- **GitHub:** [matt-april/pilled](https://github.com/matt-april/pilled) (private)
 
 ---
 
