@@ -161,7 +161,7 @@ Use these URLs in your App Store Connect submission:
 
 ## 📄 License
 
-© 2025 Matthew April. All rights reserved.
+© 2026 Matthew April. All rights reserved.
 
 ---
 
